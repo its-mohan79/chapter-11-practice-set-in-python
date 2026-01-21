@@ -19,7 +19,10 @@ c1 = Complex(2, 3)
 c2 = Complex(4, 5)
 sum_complex = c1 + c2
 product_complex = c1 * c2
-print(f"Sum: {sum_complex}")
+print(f"Sum: {sum_complex}") 
+
 
 print(f"Product: {product_complex}")
+
+
 
