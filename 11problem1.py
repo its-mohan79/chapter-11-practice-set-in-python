@@ -19,5 +19,5 @@ class threedvector(twodvector):
 a = twodvector(1, 2)
 a.show()
 
-b = threedvector(5, 2, 3)
+b = threedvector(5,222 2, 3)
 b.show()
